@@ -35,8 +35,4 @@ For Windows build, make sure CMake and a C++ compiler (like MSVC or MinGW) are p
 * **Devyansh Nigam (23BCS13022)** - Core Developer & Project Lead (Engine Architecture, Game Mechanics, collision detection)
 * **Gautam Kumar (23BCS13028)** - Core Developer (Graphics Rendering, Animation Management, Input integration)
 
-## 🤝 Contributing
-Pull requests are welcome! If you find a bug or have a feature suggestion, feel free to open an issue.
 
-## 🛣️ Roadmap
-Check out the [ROADMAP](./ROADMAP.md) for planned features and upcoming improvements.
